@@ -1,0 +1,1 @@
+The general environment in which this scenario takes place is the e-business applications domain, and particularly, online product selling systems. We focus here on an online product selling scenario.
